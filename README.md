@@ -1,2 +1,2 @@
-# poc-elastichcache
+# poc-elasticache
 Projeto para testar elastichcache com Spring boot
