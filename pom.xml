@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.rodrigoromero.poc.elasticache</groupId>
 	<artifactId>poc-elasticache</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>PocElasticache</name>
 	<description>poc elasticache AWS</description>
 
