@@ -16,7 +16,7 @@ public class CepService {
 		
 	}
 
-	@Cacheable(cacheNames = "cep", key = "#cep")
+	//@Cacheable(cacheNames = "cep", key = "#cep")
 	public LocalJson buscarCep(String cep) {
 		return viaCepClient.bucsarCep(cep); 
 	}
